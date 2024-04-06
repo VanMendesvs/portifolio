@@ -1,19 +1,14 @@
 import styled from "styled-components"
 
-export const Nav = styled.nav`
-    background-color: red;
-   
-
-`
-
 export const Ul = styled.ul`
-    background-color:black;
+    background-color: #1a031a;
     height: 20vh;
     display: flex;
-    justify-content: end;
+    justify-content: space-evenly;
     align-items: center;
     list-style: none;
-    border: solid yellow;
+    border: solid purple;
+    
 
     a{
         font-size: 1.5rem;
@@ -21,7 +16,7 @@ export const Ul = styled.ul`
         color: white;
         width: 10vw;
         display: flex;
-        border: solid yellow;
+      
     }
 `
 
