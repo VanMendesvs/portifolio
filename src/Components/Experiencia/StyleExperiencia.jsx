@@ -2,12 +2,13 @@ import styled from "styled-components"
 
 
 export const Main = styled.main`
-    background-color: #1a041a;
+    background-color: #2c0235;
     height: 100vh;
     display: flex;
     color: white;
     display: flex;
     align-items: center;
+   
 `
 
 export const SectionEst = styled.section`

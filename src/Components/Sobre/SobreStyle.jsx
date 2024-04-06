@@ -1,8 +1,8 @@
 import styled from "styled-components"
 
 export const About = styled.main`
-    background-color: #1a041a;
-    color: white;
+    background-color: #2c0235;
+    color: #ebdfdf;
     display: flex;
    
 
@@ -12,6 +12,7 @@ export const About = styled.main`
 
     p {
         font-size: 1.5rem;
+        
     }
 `
 export const Text = styled.main`
