@@ -1,7 +1,7 @@
 import styled from "styled-components"
 
 export const Ul = styled.ul`
-    background-color: #380438;
+    background-color: #4b0d4b;
     height: 15vh;
     display: flex;
     justify-content: space-evenly;
@@ -12,7 +12,7 @@ export const Ul = styled.ul`
     a{
         font-size: 1.5rem;
         text-decoration: none;
-        color: white;
+        color: #ffffff;
         width: 10vw;
         display: flex;
         

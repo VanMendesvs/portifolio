@@ -1,9 +1,9 @@
 import React from "react";
-import Inicio from "./Inicio/Inicio.jsx"
-import Sobre from "./Sobre/Sobre.jsx"
-import Experiencia from "./Experiencia/Experiencia.jsx"
-import Projeto from  "./Projetos/Projeto.jsx"
-import * as S from "./Navegacao/NavegacaoStyle.jsx"
+import Inicio from "../Inicio/Inicio.jsx"
+import Sobre from "../Sobre/Sobre.jsx"
+import Experiencia from "../Experiencia/Experiencia.jsx"
+import Projeto from  "../Projetos/Projeto.jsx"
+import * as S from "./NavegacaoStyle.jsx"
 
 
 import {BrowserRouter, Routes , Route, Link } from "react-router-dom"

@@ -1,7 +1,7 @@
 
 import React from "react";
 import {createGlobalStyle} from "styled-components"
-import Navegacao from "./Components/Navegacao";
+import Navegacao from "./Components/Navegacao/Navegacao.jsx";
 
 
 const GlobalStyle = createGlobalStyle`
