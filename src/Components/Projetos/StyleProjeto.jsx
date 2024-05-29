@@ -9,5 +9,11 @@ export const Main = styled.main`
         text-align: center;
         margin: 24px 0;
     }
+
+    .slide-item{
+        width: 100%;
+        height: 350px;
+      
+    }
 `
 
